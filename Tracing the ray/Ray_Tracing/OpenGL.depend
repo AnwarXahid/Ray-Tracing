@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1524330465 source:e:\level-4, term-2\computer graphics sessional\my assignment\opengl\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\level-4, term-2\computer graphics sessional\my assignment\opengl\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532233390 source:e:\level-4, term-2\computer graphics sessional\assignment-4 (ray_tracing)\1305119\ray_tracing\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+	"FILE2.h"
+	<math.h>
+	<iostream>
+	<typeinfo>
+
+1392007564 e:\level-4, term-2\computer graphics sessional\assignment-4 (ray_tracing)\1305119\ray_tracing\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532234552 e:\level-4, term-2\computer graphics sessional\assignment-4 (ray_tracing)\1305119\ray_tracing\file2.h
+	"bitmap_image.hpp"
+	<iostream>
+	<vector>
+
+1495155204 e:\level-4, term-2\computer graphics sessional\assignment-4 (ray_tracing)\1305119\ray_tracing\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
